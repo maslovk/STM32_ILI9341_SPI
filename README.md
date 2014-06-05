@@ -1,4 +1,4 @@
-STM32_ILI9346_SPI
+STM32_ILI9341_SPI
 =================
 
 ILI9341 Driver for STM32
